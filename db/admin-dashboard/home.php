@@ -1675,9 +1675,6 @@
             window.addEventListener("DOMContentLoaded", () => Alpine.start());
           </script>
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-          
-                <!--LiveChat Starts Here-->
-      <script src="//code.tidio.co/zdvbewkfmdmezr6bfprir9cusn6yop6h.js" async></script>
-      <!--LiveChat Ends Here-->
+        
   </body>
 </html>
