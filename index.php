@@ -12,8 +12,6 @@
 
 <body>
   <?php include "header.php";
-
-  include 'livechat.php';
   ?>
 
   <section class="section-1">
