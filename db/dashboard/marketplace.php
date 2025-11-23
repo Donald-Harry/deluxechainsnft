@@ -142,7 +142,8 @@ if ($row2 > 0) {
                   class="popper-box w-64 rounded-lg border border-slate-150 bg-white shadow-soft dark:border-navy-600 dark:bg-navy-700">
                   <div class="flex items-center space-x-4 rounded-t-lg bg-slate-100 py-5 px-4 dark:bg-navy-800">
                     <div class="avatar h-14 w-14">
-                      <img class="rounded-full" src="<?= replace_image_ifNotEixt('../uploads/' . $feeder) ?>" alt="avatar">
+                      <img class="rounded-full" src="<?= replace_image_ifNotEixt('../uploads/' . $feeder) ?>"
+                        alt="avatar">
                     </div>
                     <div>
                       <a href="#"
