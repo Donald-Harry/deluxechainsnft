@@ -16,7 +16,73 @@
 
   <section class="section-1">
     <div class="parent">
-      Please, your subscription has expired, contact ADMIN to renew. <br> Thank you!
+      <div class="sub-parent">
+        <h3 class="explore">
+          Explore & Gather Digital Artworks and
+          <span>NFTs</span>
+        </h3>
+        <p class="desc">
+          Craft an exquisite NFT masterpiece. Initiate
+          your journey with the simplest and most reliable
+          platform for purchasing and exchanging digital
+          art and NFTs.
+        </p>
+
+        <a href="db/enter/register.php" target="_blank" class="trading-cta">Start Trading</a>
+
+        <div class="block-container">
+          <div class="block-content">
+            <h3 class="block-h3">30K +</h3>
+            <p class="block-desc">Art Works</p>
+          </div>
+          <div class="block-content">
+            <h3 class="block-h3">120K +</h3>
+            <p class="block-desc">Auctions</p>
+          </div>
+          <div class="block-content">
+            <h3 class="block-h3">15K +</h3>
+            <p class="block-desc">Artists</p>
+          </div>
+        </div>
+      </div>
+      <style>
+        .img-nft {
+          height: 600px !important;
+        }
+
+        @keyframes shake {
+          0% {
+            transform: translate(0, 0);
+          }
+
+          10%,
+          30%,
+          50%,
+          70%,
+          90% {
+            transform: translate(-5px, 5px);
+          }
+
+          20%,
+          40%,
+          60%,
+          80% {
+            transform: translate(5px, -5px);
+          }
+
+          100% {
+            transform: translate(0, 0);
+          }
+        }
+
+        .shake-animation {
+          animation: shake 3s infinite;
+        }
+      </style>
+      <div class="img-parent">
+        <img src="/images/nftprime.png" alt="" class="img-nft shake-animation" style="height: 400px;">
+
+      </div>
     </div>
   </section>
 
