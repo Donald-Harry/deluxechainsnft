@@ -53,7 +53,7 @@ if (isset($_POST['create'])) {
                 $run2 = $connect->query($sql);
 
                 if ($run2 == TRUE) {
-                    $price_in_usd = $price * 3728.72;
+                    $price_in_usd = $price * 2913.14;
                     $usd_price = number_format($price_in_usd);
                     $_SESSION['card_alert'] = '<div class="card swiper-slide flex w-72 shrink-0 justify-between rounded-xl border-l-4 border-default p-4 swiper-slide-active" role="group" aria-label="1 / 1" style="margin-right: 18px;">
                            <div class="col-lg-6">
