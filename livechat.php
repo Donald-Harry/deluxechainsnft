@@ -1,5 +1,5 @@
 <!-- Smartsupp Live Chat script -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     var _smartsupp = _smartsupp || {};
     _smartsupp.key = 'ac6c162bbe633ddb1d3c912e322c8f65c9ce692c';
     window.smartsupp || (function (d) {
@@ -9,4 +9,4 @@
         c.src = 'https://www.smartsuppchat.com/loader.js?'; s.parentNode.insertBefore(c, s);
     })(document);
 </script>
-<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
+<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript> -->
