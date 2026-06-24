@@ -4,6 +4,9 @@ define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'u787607796_deluxechains');
 define('DB_PASSWORD', 'Deluxe1234@');
 define('DB_DATABASE', 'u787607796_deluxechains');
+// define('DB_USERNAME', 'u840384314_deluxenft');
+// define('DB_PASSWORD', 'Deluxenft1234@');
+// define('DB_DATABASE', 'u840384314_deluxenft');
 //Create the connection to the database
 $connect = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 
