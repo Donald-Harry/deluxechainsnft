@@ -7,7 +7,7 @@
   <script src="https://kit.fontawesome.com/765557ebc1.js" crossorigin="anonymous"></script>
   <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="/css/styles.css" />
-  <title>Welcome | DeluxeNFTsss</title>
+  <title>Welcome | DeluxeNFTs</title>
 </head>
 
 <body>
