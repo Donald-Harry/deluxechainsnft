@@ -18,7 +18,7 @@
     <div class="parent">
       <div class="sub-parent">
         <h3 class="explore">
-          Explore & Gathersss Digital Artworks and
+          Explore & Gather Digital Artworks and
           <span>NFTs</span>
         </h3>
         <p class="desc">
