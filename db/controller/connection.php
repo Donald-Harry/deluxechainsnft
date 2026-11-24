@@ -1,9 +1,9 @@
 <?php
 //defining the server, username, password and database
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'u805714589_deluxechains');
-define('DB_PASSWORD', 'Deluxechains1234@!');
-define('DB_DATABASE', 'u805714589_deluxechains');
+define('DB_USERNAME', 'swiftscourrier_deluxe_user');
+define('DB_PASSWORD', 'Deluxe1234@!');
+define('DB_DATABASE', 'swiftscourrier_deluxe_db');
 //Create the connection to the database
 $connect = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 
